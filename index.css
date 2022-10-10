@@ -1,0 +1,40 @@
+*{
+    margin: 10px;
+    border: 100px;
+    padding: 10px;
+}
+
+
+header {
+    display: flex;
+    align-items: center;
+    background-color: whitesmoke;
+    height: 125px;
+}
+
+h4 {
+    
+    color: black;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+nav{
+background-color: whitesmoke;
+margin-top: 50px;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+h6 {
+    color: green;
+}
+
+p{
+    margin: 10px;
+}
